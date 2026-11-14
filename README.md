@@ -1,6 +1,12 @@
 # Smart Football Fields — Frontend
 
+نسخة Frontend متعددة الصفحات لمشروع إدارة وحجز ملاعب كرة القدم.
 
+## التشغيل
+1. فك ضغط `Smart-Football-Fields-Frontend-Phase1.zip`.
+2. افتح مجلد `Smart-Football-Fields-Complete` في Visual Studio Code.
+3. شغّل `index.html` باستخدام إضافة Live Server.
+4. استخدم القائمة الجانبية للتنقل بين صفحات اللاعب والإدارة.
 
 ## الصفحات
 - `index.html`: الصفحة الرئيسية والبحث عن الملاعب.
